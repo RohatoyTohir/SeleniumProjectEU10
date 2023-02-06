@@ -1,8 +1,8 @@
 package com.cydeo.tests.day10_upload_actions_jsexecutor;
 
 //import com.cydeo.tests.utilities.*;
-import com.cydeo.utilities.BrowserUtils;
-import com.cydeo.utilities.Driver;
+import com.cydeo.tests.utilities.BrowserUtils;
+import com.cydeo.tests.utilities.Driver;
 import org.openqa.selenium.*;
 import org.testng.annotations.*;
 

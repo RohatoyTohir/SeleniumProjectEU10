@@ -1,7 +1,7 @@
 package com.cydeo.tests.day3_cssSelector_xpath;
 
 //import com.cydeo.tests.utilities.*;
-import com.cydeo.utilities.WebDriverFactory;
+import com.cydeo.tests.utilities.WebDriverFactory;
 import org.openqa.selenium.*;
 
 public class T4_cssSelector_getText {

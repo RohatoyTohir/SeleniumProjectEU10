@@ -2,8 +2,8 @@ package com.cydeo.tests.day10_upload_actions_jsexecutor;
 
 
 //import com.cydeo.tests.utilities.*;
-import com.cydeo.utilities.ConfigurationReader;
-import com.cydeo.utilities.Driver;
+import com.cydeo.tests.utilities.ConfigurationReader;
+import com.cydeo.tests.utilities.Driver;
 import com.github.javafaker.*;
 import org.openqa.selenium.*;
 import org.openqa.selenium.support.ui.*;

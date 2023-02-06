@@ -1,8 +1,8 @@
 package com.cydeo.tests.day8_properties_config_reader;
 
 //import com.cydeo.tests.utilities.*;
-import com.cydeo.utilities.ConfigurationReader;
-import com.cydeo.utilities.Driver;
+import com.cydeo.tests.utilities.ConfigurationReader;
+import com.cydeo.tests.utilities.Driver;
 import org.openqa.selenium.*;
 import org.testng.*;
 import org.testng.annotations.*;

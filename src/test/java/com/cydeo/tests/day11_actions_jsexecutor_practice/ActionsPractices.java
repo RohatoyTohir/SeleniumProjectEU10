@@ -1,7 +1,7 @@
 package com.cydeo.tests.day11_actions_jsexecutor_practice;
 
 //import com.cydeo.tests.utilities.*;
-import com.cydeo.utilities.Driver;
+import com.cydeo.tests.utilities.Driver;
 import org.openqa.selenium.*;
 import org.openqa.selenium.interactions.*;
 import org.testng.annotations.*;

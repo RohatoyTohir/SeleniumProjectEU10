@@ -1,7 +1,7 @@
 package com.cydeo.tests.day5_testNG_intro_dropdowns;
 
 //import com.cydeo.tests.utilities.*;
-import com.cydeo.utilities.WebDriverFactory;
+import com.cydeo.tests.utilities.WebDriverFactory;
 import org.openqa.selenium.*;
 
 import java.util.*;

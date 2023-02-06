@@ -1,6 +1,6 @@
 package com.cydeo.tests;
 
-import com.cydeo.utilities.Driver;
+import com.cydeo.tests.utilities.Driver;
 import org.openqa.selenium.By;
 import org.testng.Assert;
 import org.testng.annotations.Test;
