@@ -2,8 +2,8 @@ package com.cydeo.tests.day12_pom_design_explicit_wait;
 
 
 //import com.cydeo.tests.utilities.*;
-import com.cydeo.tests.pages.DynamicLoad1Page;
-import com.cydeo.tests.pages.DynamicLoad7Page;
+import com.cydeo.pages.DynamicLoad1Page;
+import com.cydeo.pages.DynamicLoad7Page;
 import com.cydeo.tests.utilities.Driver;
 import org.openqa.selenium.support.ui.*;
 import org.testng.*;

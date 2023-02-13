@@ -1,6 +1,6 @@
 package com.cydeo.tests.day13_review_and_practice;
 
-import com.cydeo.tests.pages.*;
+import com.cydeo.pages.*;
 import com.cydeo.tests.utilities.*;
 import org.openqa.selenium.*;
 import org.testng.*;
